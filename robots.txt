@@ -1,4 +1,19 @@
+# Castle Rock SEO, powered by Eye To Ad Media (https://eyetoad.com/)
+# Search engines and AI assistants are welcome.
+
 User-agent: *
 Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
 
 Sitemap: https://castlerock-seo.com/sitemap.xml

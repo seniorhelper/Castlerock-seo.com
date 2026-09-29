@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-  <url>
-    <loc>https://castlerock-seo.com/</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://castlerock-seo.com/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/local-seo-castle-rock/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/castle-rock-marketing-agency/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/castle-rock-advertising/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/castle-rock-web-design/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/castle-rock-ai-search/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/castle-pines-seo/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/douglas-county-seo/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/tools/castle-rock-market-size/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/tools/map-pack-scorecard/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/tools/ad-budget-splitter/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/tools/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/blog/castle-rock-by-the-numbers/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/blog/google-maps-ranking-castle-rock/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/blog/advertising-in-castle-rock/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/blog/ai-search-douglas-county/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/blog/choosing-a-castle-rock-marketing-agency/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/blog/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/about/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/contact/</loc><lastmod>2026-09-29</lastmod></url>
+  <url><loc>https://castlerock-seo.com/sitemap.html</loc><lastmod>2026-09-29</lastmod></url>
 </urlset>
