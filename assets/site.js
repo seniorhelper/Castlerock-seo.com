@@ -15,17 +15,17 @@ if('IntersectionObserver' in window){var io=new IntersectionObserver(function(en
 $$('[data-em]').forEach(function(a){var m=a.getAttribute('data-em')+'@'+(a.getAttribute('data-dom')||'eyetoad.com');function set(){a.href='mai'+'lto:'+m}a.addEventListener('click',set);a.addEventListener('mouseenter',set);a.addEventListener('focus',set);if(a.hasAttribute('data-show'))a.textContent=m});
 $$('[data-year]').forEach(function(e){e.textContent=new Date().getFullYear()});
 $$('form[data-lead]').forEach(function(f){var t0=Date.now();f.addEventListener('submit',function(e){e.preventDefault();var msg=$('.fmsg',f);
- if($('.hp input',f).value){msg.textContent='Thanks!';return}
- if(Date.now()-t0<3500){msg.textContent='One moment, then try again.';return}
+ var hp=f.querySelector('[name="_honey"]');if(hp&&hp.value){return}
+ if(Date.now()-t0<3500){msg.textContent='Give the form a moment, then send again.';return}
  var fd=new FormData(f),ok=true;fd.forEach(function(v){if(String(v).length>3000)ok=false});
  var ph=String(fd.get('phone')||'').replace(/\D/g,''),nm=String(fd.get('name')||'').trim();
  if(!nm||ph.length<10){msg.textContent='Add your name and a 10-digit phone number.';return}
  if(!ok){msg.textContent='That message is a little long. Trim it and try again.';return}
- fd.delete('_hp');fd.append('_subject','CastleRock-SEO lead: '+(fd.get('topic')||'website'));fd.append('_template','table');fd.append('page',location.pathname);
- var to='in'+'fo'+'@'+'eyetoad'+'.com';msg.textContent='Sending...';
- fetch('https://formsubmit.co/ajax/'+to,{method:'POST',headers:{'Accept':'application/json'},body:fd}).then(function(r){return r.json()}).then(function(){f.reset();msg.textContent='Got it. A strategist will reach out shortly. Faster? Call 1-800-481-8638.'}).catch(function(){msg.textContent='Could not send. Please call 1-800-481-8638.'})})});
+ fd.set('_subject','New lead \u2014 castlerock-seo.com');fd.set('_template','table');fd.set('_captcha','false');fd.delete('_next');fd.append('page',location.pathname);
+ var to=atob('aW5mbw==')+String.fromCharCode(64)+atob('ZXlldG9hZC5jb20=');msg.textContent='Sending...';
+ fetch('https://formsubmit.co/ajax/'+to,{method:'POST',headers:{'Accept':'application/json'},body:fd}).then(function(r){return r.json().then(function(j){return r.ok&&j&&String(j.success)==='true'},function(){return false})}).then(function(sent){if(sent){f.reset();msg.textContent="Sent. We'll get back to you shortly."}else{msg.textContent='That did not go through. Please call 1-800-481-8638.'}}).catch(function(){msg.textContent='That did not go through. Please call 1-800-481-8638.'})})});
 function load(src){var s=d.createElement('script');s.src=src;s.defer=true;d.body.appendChild(s)}
 if(b.hasAttribute('data-tools'))load('/assets/tools.js?v=1');
 var idle=window.requestIdleCallback||function(f){setTimeout(f,1200)};
-idle(function(){load('/assets/rocky.js?v=1')},{timeout:3000});
+idle(function(){load('/assets/rocky.js?v=2')},{timeout:3000});
 })();
