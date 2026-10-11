@@ -99,10 +99,10 @@ Google's Core Web Vitals consider Largest Contentful Paint of 2.5 seconds or les
 ### Do you build WordPress or Shopify sites?
 We hand-code most sites for speed and also build on WordPress and Shopify when that fits the business.
 
-## AI search optimization for Castle Rock businesses
+## AI Search for Castle Rock Businesses | ChatGPT, Gemini & AI Overviews
 URL: https://castlerock-seo.com/castle-rock-ai-search/
 
-AI search optimization for a Castle Rock business means making it easy for AI assistants such as ChatGPT, Gemini, Perplexity and Google AI Overviews to find, understand, trust and recommend the business. It relies on clear, specific answers on key pages, structured data, consistent business details across the web, genuine reviews, and making sure AI crawlers are not blocked.
+AI search optimization for a Castle Rock business means making it easy for AI assistants such as ChatGPT, Gemini, Perplexity and Google AI Overviews to find, understand, trust and recommend the business. It relies on clear, specific answers on key pages, structured data, consistent business details across the web, genuine reviews, and a robots.txt file that lets search crawlers in.
 
 ### Can a Castle Rock business show up in ChatGPT answers?
 Yes. Clear, specific pages, structured data, consistent listings and genuine reviews all improve the chance of being recommended or cited.
@@ -112,6 +112,18 @@ Both describe optimizing for AI-generated answers. AIO usually means making cont
 
 ### What is agentic search?
 AI agents that research, compare and take actions such as filling forms or booking appointments on a user's behalf.
+
+### Should a Castle Rock business block GPTBot?
+It is a business choice. GPTBot is OpenAI's training crawler; ChatGPT search uses a separate crawler, OAI-SearchBot. Blocking GPTBot while allowing OAI-SearchBot is a common middle ground.
+
+### Does blocking Google-Extended remove me from Google Search?
+No. Google says Google-Extended controls use of content for its Gemini models and does not affect inclusion or ranking in Google Search.
+
+### How often should I check what AI says about my business?
+Monthly is enough for most businesses. Use the same prompts each time so you can compare, and check that your hours, phone and services are described correctly.
+
+### Can anyone guarantee my business will be named by ChatGPT?
+No. AI answers vary by person, wording and day. Being easy to find, understand and verify improves the odds, but nobody controls the result.
 
 ## Castle Pines SEO
 URL: https://castlerock-seo.com/castle-pines-seo/
@@ -242,10 +254,10 @@ URL: https://castlerock-seo.com/blog/
 
 The Castle Rock SEO blog publishes practical guides for businesses in Castle Rock and Douglas County, covering local market data from the U.S. Census Bureau, Google Maps rankings, advertising channels, AI search and how to choose a marketing agency.
 
-## About Castle Rock SEO
+## About Castle Rock SEO | Powered by Eye To Ad Media
 URL: https://castlerock-seo.com/about/
 
-Castle Rock SEO is a local SEO and marketing resource for businesses in Castle Rock, Castle Pines and Douglas County, powered by Eye To Ad Media, a marketing agency founded in 2012 by Zachary Tye Wennstedt and headquartered at 1001 Bannock St in Denver.
+Castle Rock SEO is a local SEO and marketing resource for businesses in Castle Rock, Castle Pines and Douglas County, run by Eye To Ad Media, the Denver agency Zachary Tye Wennstedt started in 2012, based at 1001 Bannock St.
 
 ### Is Castle Rock SEO a separate company?
 No. Castle Rock SEO is a local resource and service line powered by Eye To Ad Media.
@@ -253,13 +265,88 @@ No. Castle Rock SEO is a local resource and service line powered by Eye To Ad Me
 ### Where is your office?
 Our team is headquartered at 1001 Bannock St #660, Denver, CO 80204, and works with Castle Rock and Douglas County businesses.
 
-## Contact us
+### Do you have an office in Castle Rock?
+No. Our office is in Denver, at 1001 Bannock St #660. We work with Castle Rock businesses by phone and video and meet in person when that helps.
+
+### Where do the numbers on this site come from?
+Population, household and income figures come from the U.S. Census Bureau. Guidance on Google rankings and profiles comes from Google's published help pages, linked on each page.
+
+## Contact Castle Rock SEO | Free Strategy Call | 1-800-481-8638
 URL: https://castlerock-seo.com/contact/
 
-To reach the Castle Rock SEO team at Eye To Ad Media, call 1-800-481-8638, request a callback with the form on this page, or email the sales team. The office is at 1001 Bannock St #660, Denver, CO 80204, and the team works with businesses across Castle Rock and Douglas County.
+The fastest way to reach Castle Rock SEO is to phone 1-800-481-8638. You can also leave your name and number in the callback form here, or send an email. Eye To Ad Media runs this site from its Denver office at 1001 Bannock St #660 (80204) and works with owners all over Castle Rock and Douglas County.
 
 ### How fast will someone call me?
 Usually the same business day. For anything urgent, call 1-800-481-8638.
 
 ### Do you meet in person in Castle Rock?
 When it helps, yes. Most strategy calls happen by phone or video first.
+
+### Is the strategy call really free?
+Yes. There is no charge and no obligation. If we are not the right fit, we will say so and point you to what would help.
+
+### Do I need to know what I want before calling?
+No. Many owners call because calls dropped or a competitor started showing up above them. Working out why is part of the call.
+
+### Can you promise a top-three Map Pack spot?
+No, and you should be wary of anyone who does. Rankings depend on distance, competitors and Google's systems. We can promise honest advice and clear reporting.
+
+## Google Business Profile Optimization in Castle Rock, CO
+URL: https://castlerock-seo.com/google-business-profile-castle-rock/
+
+To optimize a Google Business Profile in Castle Rock, verify it under an account you own, use your real business name with no added keywords, choose the most specific primary category, set an exact pin or a realistic service area, fill in every field, add real photos regularly, and ask every happy customer for a review. Google says local results depend mainly on relevance, distance and prominence, and a complete, active profile helps with all three.
+
+### Can I hide my address if I work from home in Castle Rock?
+Yes, if you serve customers at their location. Google lets service-area businesses hide the address and show a service area instead. The address must still be a real place you operate from, and you should not show a home address you do not want public.
+
+### Should I add "Castle Rock" to my business name on Google?
+Only if it is truly part of your real-world name, on your signage and paperwork. Adding it just for rankings goes against Google's guidelines and can get the profile suspended.
+
+### How many service areas should I list?
+List the towns and areas you actually serve, such as Castle Rock, Castle Pines and Larkspur. Google allows up to 20 service areas, but listing distant places does not make you rank there.
+
+### Does posting on my profile help rankings?
+Posts mainly help customers who are already looking at your profile. They show the business is active and can answer common questions, so they are worth a few minutes a month.
+
+### Is my checklist progress saved?
+Only in your own browser on this device, so you can come back to it. Nothing is sent to us.
+
+## Castle Rock Local Citation Checklist + NAP Checker
+URL: https://castlerock-seo.com/castle-rock-citation-checklist/
+
+A local citation is any online mention of your business name, address and phone number (NAP). For a Castle Rock business, the listings that matter most are Google, Apple Business Connect, Bing Places, Yelp, Facebook and BBB, followed by local sources such as the Castle Rock Chamber directory and your industry's main directory. Matching details matter more than the number of listings.
+
+### What does NAP stand for?
+Name, address and phone number. Local search tools compare these across the web, and matching details make it easier for Google, map apps and AI assistants to trust that a listing is yours and current.
+
+### How many citations does a Castle Rock business need?
+There is no magic number. The core listings plus a handful of local and industry sources usually cover what matters. Accuracy beats volume.
+
+### Do I need to list a hidden address on directories?
+No. If you hide your address on Google because you serve customers at their location, keep it hidden or use city-only settings on other platforms where possible, so the listings stay consistent.
+
+### Does the checker see my real listings?
+No. It compares the text you paste in. It does not search the web or store anything.
+
+### Is "St" versus "Street" a problem?
+Not really. Search engines understand common abbreviations. A different suite number, an old phone number or an added keyword in the name are the differences worth fixing.
+
+## Local SEO Self-Audit for Castle Rock Businesses | Free
+URL: https://castlerock-seo.com/tools/local-seo-self-audit/
+
+A local SEO self-audit checks the things that decide whether a Castle Rock business shows up when nearby customers search: a verified, complete Google Business Profile, a steady flow of reviews, matching listings, service pages written for Castle Rock, a fast mobile site and basic tracking. Answer the questions below to see which gaps cost you the most and how long each fix usually takes to show.
+
+### How accurate is this self-audit?
+It is a structured checklist, not a ranking tool. It shows which signals you control are missing and weights them by how much they usually matter. Distance from the searcher and competitor strength also affect rankings, and no checklist can see those.
+
+### Is my information saved or sent anywhere?
+No. The audit runs in your browser. Nothing you select is sent to us or stored on a server.
+
+### How is this different from the Map Pack scorecard?
+The Map Pack scorecard is a quick tick-box check of 13 Google Maps signals. This self-audit is broader: it adds tracking and AI readiness, lets you answer "partly", and gives a time estimate for each fix.
+
+### How long until local SEO works in Castle Rock?
+Simple profile fixes can show within days or weeks. New pages and review growth usually take three to six months to produce steady calls, and longer in crowded categories such as home services, legal and dental.
+
+### Can I do all of this myself?
+Most of it, yes. The profile, review and listing fixes need time more than money. Many owners hand off the website, structured data and ongoing content once the basics are in place.
